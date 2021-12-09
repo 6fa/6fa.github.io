@@ -1,7 +1,7 @@
 const ul = document.getElementById('itemContainer')
 const uploader = document.querySelector('.uploader')
 const snacks = document.querySelector('.snacks')
-const accountBook = document.querySelector('.accountBook')
+const accountBook = document.querySelector('.account')
 
 const elList = {
   '#uploader': uploader,
