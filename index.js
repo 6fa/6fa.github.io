@@ -23,6 +23,7 @@ const render = function (hash) {
   if(hash && hash !== '/'){
     hideAll(hash)
     elList[hash].style.display = 'block'
+    console.log('xxx')
   }else {
     hideAll()
   }
